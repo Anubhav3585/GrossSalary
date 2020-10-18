@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603011926 source:c:\users\anubh\downloads\codeblocks\challengeasnetgross\main.c
+	<stdio.h>
+	<math.h>
+
